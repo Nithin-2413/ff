@@ -25,4 +25,3 @@ Bot Service: Azure Health Bot
 ![Screenshot 2024-06-05 140937](https://github.com/Nithin-2413/frtproject/assets/135258263/a31e353e-0029-43c1-bf97-8557215bf8db)
 ![Screenshot 2024-06-05 141301](https://github.com/Nithin-2413/frtproject/assets/135258263/3ee15fbb-d5f2-4e88-b859-2c75ddfd859b)
 ![Screenshot 2024-06-05 141345](https://github.com/Nithin-2413/frtproject/assets/135258263/14ef1d1d-73aa-4591-a7a7-8a4b39114bf0)
-![Screenshot 2024-06-05 140605](https://github.com/Nithin-2413/frtproject/assets/135258263/1508cfdd-b865-42a8-a866-081ec665d603)
