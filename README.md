@@ -2,6 +2,7 @@
 
 
 core services I have used : Visual Studio Code, Azure static web app 
+
 AI services I have used : Azure health bot
 
 
@@ -12,6 +13,7 @@ Responsive Design: Accessible from any device, our website ensures that users ca
 
 Hosting: Azure Static Web Apps --- https://delightful-river-018f6370f.5.azurestaticapps.net/
                         github --- https://nithin-2413.github.io/frtproject/
+                        
 Version Control: GitHub
 Bot Service: Azure Health Bot
 
